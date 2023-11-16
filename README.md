@@ -48,8 +48,8 @@ Um formulário é frequentemente um componente independente. Pode incluir campos
 Ao criar uma hierarquia de componentes, você está organizando sua IU de maneira eficiente. Os componentes menores e reutilizáveis podem ser combinados para formar layouts complexos. Lembre-se, é como montar um quebra-cabeça para criar algo grandioso!
 
 ### Vamos Conectar!
-Curioso sobre este conteúdo? Ele foi gerado por inteligência artificial, mas passou pelo olhar crítico de alguém 100% humano. Se quiser se conectar comigo, me siga no LinkedIn.
-
+Curioso sobre este conteúdo? Ele foi gerado por inteligência artificial, mas passou pelo olhar crítico de alguém 100% humano. Se quiser se conectar comigo, me siga no 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gehlen-5350341a3)
 ### Créditos
 - Ilustrações de capas: geradas pela Lexica.Art
 - Conteúdo gerado por: ChatGPT e revisões humanas
